@@ -119,7 +119,7 @@ span{
     background-color: var(--RoseWhite);
     overflow-x: hidden;
 }
-.preparation > h3{
+.preparation > p{
     font-size: clamp(18px, 1.5vw, 20px);
     font-weight: 600;
     color: var(--DarkRaspberry);
