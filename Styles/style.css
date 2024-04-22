@@ -146,7 +146,7 @@ tr td:nth-child(2){
     font-weight: 700;
     
 }
-@media (min-width: 1440px) {
+@media (min-width: 375px) {
    body{
     display: flex;
     justify-content: center;
